@@ -3966,6 +3966,8 @@
                                                                                                         }
                                                                                                         .parallax2 {
                                                                                                             height: 600px;
+                                                                                                            background-image: url("../images/p1.jpg");
+                                                                                                            object-fit: contain;
                                                                                                         }
                                                                                                         #section-3 {
                                                                                                             position: relative;
@@ -4049,6 +4051,8 @@
                                                                                                         }
                                                                                                         .parallax2 {
                                                                                                             height: 600px;
+                                                                                                            background-image: url("../images/p1.jpg");
+                                                                                                            object-fit: contain;
                                                                                                         }
                                                                                                         #section-3 {
                                                                                                             position: relative;
@@ -4344,6 +4348,8 @@
                                                                                                             }
                                                                                                             .parallax2 {
                                                                                                                 height: 600px;
+                                                                                                                background-image: url("../images/p1.jpg");
+                                                                                                            object-fit: contain;
                                                                                                             }
                                                                                                             .testim {
                                                                                                                 position: relative;
