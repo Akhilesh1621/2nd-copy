@@ -1,0 +1,5 @@
+@media only screen and (max-device-width: 1024) and (max-device-height: 1366) and (-webkit-min-device-pixel-ratio: 3) and (orientation: portrait) {
+    .subbb h3 {
+        font-size: 2em;
+    }
+}
